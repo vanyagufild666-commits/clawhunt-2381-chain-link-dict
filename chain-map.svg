@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1454" viewBox="0 0 980 1454" font-family="Microsoft YaHei, sans-serif">
+<defs><marker id="ar" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#8fb4d8"/></marker></defs>
+<rect width="980" height="1454" fill="#ffffff"/>
+<text x="490.0" y="42" text-anchor="middle" font-size="22" font-weight="bold">产业链环节上下游关系图（5 条产业链 · 36 个环节 · 虚构示例）</text>
+<text x="490.0" y="68" text-anchor="middle" font-size="13" fill="#666">上游 → 中游 → 下游；方框内为环节名称，箭头为上下游衔接关系</text>
+<text x="24" y="112" font-size="15" font-weight="bold" fill="#1a4d80">智能硬件</text>
+<text x="170.0" y="134" text-anchor="middle" font-size="11" fill="#888">上游</text>
+<rect x="40" y="142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="167" text-anchor="middle" font-size="12.5" fill="#123">芯片与元器件</text>
+<line x1="300" y1="162" x2="360" y2="162" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="210" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="235" text-anchor="middle" font-size="12.5" fill="#123">传感器与模组</text>
+<line x1="300" y1="230" x2="360" y2="230" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="278" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="303" text-anchor="middle" font-size="12.5" fill="#123">PCB 与结构件</text>
+<line x1="300" y1="298" x2="360" y2="298" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="490.0" y="134" text-anchor="middle" font-size="11" fill="#888">中游</text>
+<rect x="360" y="142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="167" text-anchor="middle" font-size="12.5" fill="#123">模组与方案集成</text>
+<line x1="620" y1="162" x2="680" y2="162" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="210" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="235" text-anchor="middle" font-size="12.5" fill="#123">固件与嵌入式软件</text>
+<line x1="620" y1="230" x2="680" y2="230" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="278" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="303" text-anchor="middle" font-size="12.5" fill="#123">整机制造代工</text>
+<line x1="620" y1="298" x2="680" y2="298" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="810.0" y="134" text-anchor="middle" font-size="11" fill="#888">下游</text>
+<rect x="680" y="142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="167" text-anchor="middle" font-size="12.5" fill="#123">应用与云平台</text>
+<rect x="680" y="210" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="235" text-anchor="middle" font-size="12.5" fill="#123">渠道与零售</text>
+<text x="24" y="362" font-size="15" font-weight="bold" fill="#1a4d80">新能源</text>
+<text x="170.0" y="384" text-anchor="middle" font-size="11" fill="#888">上游</text>
+<rect x="40" y="392" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="417" text-anchor="middle" font-size="12.5" fill="#123">锂矿与正负极材料</text>
+<line x1="300" y1="412" x2="360" y2="412" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="460" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="485" text-anchor="middle" font-size="12.5" fill="#123">隔膜与电解液</text>
+<line x1="300" y1="480" x2="360" y2="480" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="490.0" y="384" text-anchor="middle" font-size="11" fill="#888">中游</text>
+<rect x="360" y="392" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="417" text-anchor="middle" font-size="12.5" fill="#123">电芯制造</text>
+<line x1="620" y1="412" x2="680" y2="412" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="460" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="485" text-anchor="middle" font-size="12.5" fill="#123">电池 pack 与 BMS</text>
+<line x1="620" y1="480" x2="680" y2="480" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="528" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="553" text-anchor="middle" font-size="12.5" fill="#123">储能系统集成 EPC</text>
+<line x1="620" y1="548" x2="680" y2="548" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="810.0" y="384" text-anchor="middle" font-size="11" fill="#888">下游</text>
+<rect x="680" y="392" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="417" text-anchor="middle" font-size="12.5" fill="#123">电站运维与能源管理</text>
+<rect x="680" y="460" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="485" text-anchor="middle" font-size="12.5" fill="#123">回收与梯次利用</text>
+<text x="24" y="612" font-size="15" font-weight="bold" fill="#1a4d80">生物医药</text>
+<text x="170.0" y="634" text-anchor="middle" font-size="11" fill="#888">上游</text>
+<rect x="40" y="642" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="667" text-anchor="middle" font-size="12.5" fill="#123">药物发现 CRO</text>
+<line x1="300" y1="662" x2="360" y2="662" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="710" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="735" text-anchor="middle" font-size="12.5" fill="#123">原料药与中间体</text>
+<line x1="300" y1="730" x2="360" y2="730" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="490.0" y="634" text-anchor="middle" font-size="11" fill="#888">中游</text>
+<rect x="360" y="642" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="667" text-anchor="middle" font-size="12.5" fill="#123">制剂研发与生产</text>
+<line x1="620" y1="662" x2="680" y2="662" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="710" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="735" text-anchor="middle" font-size="12.5" fill="#123">临床试验与注册</text>
+<line x1="620" y1="730" x2="680" y2="730" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="810.0" y="634" text-anchor="middle" font-size="11" fill="#888">下游</text>
+<rect x="680" y="642" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="667" text-anchor="middle" font-size="12.5" fill="#123">医药流通与配送</text>
+<rect x="680" y="710" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="735" text-anchor="middle" font-size="12.5" fill="#123">零售药房与 DTP</text>
+<rect x="680" y="778" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="803" text-anchor="middle" font-size="12.5" fill="#123">医疗器械与诊断</text>
+<text x="24" y="862" font-size="15" font-weight="bold" fill="#1a4d80">企业软件</text>
+<text x="170.0" y="884" text-anchor="middle" font-size="11" fill="#888">上游</text>
+<rect x="40" y="892" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="917" text-anchor="middle" font-size="12.5" fill="#123">云基础设施</text>
+<line x1="300" y1="912" x2="360" y2="912" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="960" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="985" text-anchor="middle" font-size="12.5" fill="#123">安全与合规服务</text>
+<line x1="300" y1="980" x2="360" y2="980" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="490.0" y="884" text-anchor="middle" font-size="11" fill="#888">中游</text>
+<rect x="360" y="892" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="917" text-anchor="middle" font-size="12.5" fill="#123">aPaaS 与中间件</text>
+<line x1="620" y1="912" x2="680" y2="912" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="960" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="985" text-anchor="middle" font-size="12.5" fill="#123">行业 SaaS 应用</text>
+<line x1="620" y1="980" x2="680" y2="980" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="360" y="1028" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="1053" text-anchor="middle" font-size="12.5" fill="#123">系统集成与实施</text>
+<line x1="620" y1="1048" x2="680" y2="1048" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="810.0" y="884" text-anchor="middle" font-size="11" fill="#888">下游</text>
+<rect x="680" y="892" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="917" text-anchor="middle" font-size="12.5" fill="#123">运维托管与 MSP</text>
+<rect x="680" y="960" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="985" text-anchor="middle" font-size="12.5" fill="#123">数据服务与咨询</text>
+<text x="24" y="1112" font-size="15" font-weight="bold" fill="#1a4d80">消费品牌</text>
+<text x="170.0" y="1134" text-anchor="middle" font-size="11" fill="#888">上游</text>
+<rect x="40" y="1142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="1167" text-anchor="middle" font-size="12.5" fill="#123">原料与代工</text>
+<line x1="300" y1="1162" x2="360" y2="1162" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<rect x="40" y="1210" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="170.0" y="1235" text-anchor="middle" font-size="12.5" fill="#123">包装与设计</text>
+<line x1="300" y1="1230" x2="360" y2="1230" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="490.0" y="1134" text-anchor="middle" font-size="11" fill="#888">中游</text>
+<rect x="360" y="1142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="490.0" y="1167" text-anchor="middle" font-size="12.5" fill="#123">品牌与产品研发</text>
+<line x1="620" y1="1162" x2="680" y2="1162" stroke="#8fb4d8" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="810.0" y="1134" text-anchor="middle" font-size="11" fill="#888">下游</text>
+<rect x="680" y="1142" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="1167" text-anchor="middle" font-size="12.5" fill="#123">电商运营与直播</text>
+<rect x="680" y="1210" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="1235" text-anchor="middle" font-size="12.5" fill="#123">经销与零售网络</text>
+<rect x="680" y="1278" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="1303" text-anchor="middle" font-size="12.5" fill="#123">仓配与履约</text>
+<rect x="680" y="1346" width="260" height="40" rx="6" fill="#eef4fa" stroke="#4a7fb5" stroke-width="1.2"/>
+<text x="810.0" y="1371" text-anchor="middle" font-size="12.5" fill="#123">营销与内容服务</text>
+</svg>
